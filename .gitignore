@@ -1,0 +1,11 @@
+# Secondary logs created by batch mode (/e) in the project root
+/*.log
+
+# Stata datasets (anywhere in the project)
+*.dta
+
+# R datasets (anywhere in the project)
+*.rds
+
+# Claude Code local settings
+.claude/settings.json

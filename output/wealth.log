@@ -1,0 +1,21 @@
+--------------------------------------------------
+Wealth survey analysis
+--------------------------------------------------
+
+Summary of wealth:
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+     -8    2072    3041    3669    4589   26696 
+
+Summary of wealth (negative codes set to missing):
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max.     NAs 
+    508    2097    3064    3706    4644   26696       2 
+
+Survey mean of wealth:
+         mean     SE
+wealth 3792.5 249.09
+
+Results table:
+  Estimate     SE
+1  3792.47 249.09
+
+Run 01 Oct 2026 at 08:40:50
