@@ -214,6 +214,8 @@ git push                   # upload to GitHub
   - `*.rds` — R datasets, anywhere in the project
   - `.claude/settings.json` — Claude Code local permission settings (kept on disk, not uploaded)
 
+  To save future changes, run git add ., then git commit -m "message", then git push.
+
 
 
 
